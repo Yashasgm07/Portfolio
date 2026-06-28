@@ -1,16 +1,156 @@
-# React + Vite
+# 👋 G M Yashas | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website showcasing my experience, projects, technical skills, education, certifications, and software engineering journey.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** https://gmyashas.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio was built to present my work, technical expertise, and professional journey in Software Engineering, Artificial Intelligence, and Full-Stack Development.
 
-## Expanding the ESLint configuration
+The website highlights my projects, work experience, academic background, certifications, and provides an easy way for recruiters and professionals to connect with me.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Modern & Responsive UI
+- Smooth Scroll Navigation
+- Animated Sections
+- Professional Project Showcase
+- Skills Categorized by Domain
+- Experience Timeline
+- Education Timeline
+- Certifications Section
+- Resume Download
+- Contact Section
+- Mobile Friendly Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+
+### Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Vercel
+
+---
+
+## 📂 Website Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Experience
+- Education
+- Certifications
+- Contact
+
+---
+
+## 💼 Featured Projects
+
+### 📄 PDF-RAG Chatbot
+
+An AI-powered Retrieval-Augmented Generation chatbot that answers questions from uploaded PDF documents using semantic search and Large Language Models.
+
+**Technologies**
+
+- Python
+- LangChain
+- Vector Database
+- RAG
+- LLM
+
+---
+
+### 🤖 Agentic AI Leave Management System
+
+An AI-powered leave management platform that automates leave requests, policy validation, approvals, and notifications using Natural Language Processing and intelligent workflows.
+
+**Technologies**
+
+- Python
+- React
+- REST APIs
+- NLP
+- JSON
+
+---
+
+### 🍽 Food Calorie Estimation System
+
+Computer vision application that estimates food calories using YOLOv8 and ResNet for food detection and classification.
+
+**Technologies**
+
+- Python
+- YOLOv8
+- ResNet
+- Flask
+
+---
+
+### 📊 Ecommerce Data Engineering Pipeline
+
+End-to-end ETL pipeline that cleans, transforms, and visualizes ecommerce sales data.
+
+**Technologies**
+
+- Python
+- PostgreSQL
+- Pandas
+- Streamlit
+
+---
+
+## 📸 Portfolio Preview
+
+Visit the live portfolio:
+
+👉 https://gmyashas.vercel.app/
+
+---
+
+## 📬 Contact
+
+📧 Email: **yashasgm07@gmail.com**
+
+💼 LinkedIn: **https://www.linkedin.com/in/gm-yashas/**
+
+💻 GitHub: **https://github.com/Yashasgm07**
+
+🌐 Portfolio: **https://gmyashas.vercel.app/**
+
+---
+
+## 🚀 Deployment
+
+This portfolio is deployed using **Vercel**.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+### © 2026 G M Yashas
+
+Designed & Developed using React, Tailwind CSS and Vite.
